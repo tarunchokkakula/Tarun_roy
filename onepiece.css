@@ -1,0 +1,42 @@
+body{
+    font-size: 30px;
+    background-color: black;
+}
+h1{
+    color:white;
+    padding-top: 26px;
+    padding-left: 0px;
+    border-right-width: 0.8;
+    margin-right: 0px;
+    margin-top: 99px;
+    margin-left: 600px;
+    padding-bottom: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 280px;
+    width: 162px;
+    height: 19px;
+}
+button{
+    padding-left: 48px;
+    padding-right: 48px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    color: goldenrod;
+    background-color: black;
+    border-radius: 40px;
+    border: 3px solid whitesmoke;
+    font-size: larger;
+    
+}
+h2{
+    margin-top: 500px;
+    width: 200px;
+}
+p{
+    color: goldenrod;
+    margin-left: 556px;
+    margin-bottom: 0px;
+    margin-top: 219px;
+}
